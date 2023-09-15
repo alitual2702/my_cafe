@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image:url("http://st2.depositphotos.com/1008191/5284/i/450/depositphotos_52847473-Bright-yellow-orange-background-autumn-colors.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    color: black;
+    
+}
+li{
+    width: 1px;
+    margin: 20px auto;
+    position: relative;
+    right: 2%;
+    list-style: none;
+    margin-top: 12px;
+    font-size: 33px;
+    transition: color 0.3s ease;
+}
+.umt{
+    margin:20px 0;
+}
+li:hover{
+    color: brown;
+}
+.contain{
+    box-shadow: 3px 3px 3px black;
+    max-width: 650px;
+    background-color: burlywood;
+    width: 80%;
+    margin: 50px auto;
+    padding: 25px 25px;
+}
+hr{
+    background-color: brown;
+    border-color: brown;
+    box-shadow: 2px 2px 2px rgb(78, 75, 75);
+    margin-top: 20px;
+    margin-bottom :20px;
+
+}
+h1{
+    text-shadow: 2px 2px 12px rgb(133, 133, 133);
+}
+h1 , h2 , .es {
+ text-align: center;  
+}
+.pak{
+    font-size: 30px;
+
+}
+.umb , .umt{
+    background-color: brown;
+    border-color: brown;
+    box-shadow: 2px 2px 2px rgb(78, 75, 75);
+}
+.ven , .wet{
+    font-weight: bold;
+    font-size: 18px;
+}
+.Coff p{
+    display: inline-block;
+   margin: 8px 19px;
+}
+.cot p{
+    display: inline-block;
+   margin: 8px 19px;
+}
+
+.pri , .obj{
+    float: right;
+    font-weight: bold;
+}
+a{
+    font-weight: bold;
+   text-decoration: none;
+   line-height: 4em;
+   color: rgb(0, 0, 0);
+}
+a:hover{
+    color: rgb(255, 4, 4);
+}
+footer{
+    text-align: center;
+}
+.es{
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 10px;
+   
+}
+h1{
+    font-size: 45px;
+}
+h2{
+ font-size: 30px;
+}
